@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# .NET_CPU_3D_Visualisation", "C# .NET_CPU_3D_Visualisation.csproj", "{578C0009-A371-434F-B8FB-F8945014281A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578C0009-A371-434F-B8FB-F8945014281A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578C0009-A371-434F-B8FB-F8945014281A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578C0009-A371-434F-B8FB-F8945014281A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578C0009-A371-434F-B8FB-F8945014281A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {387782C9-54B1-41E8-A748-5C93D6D75793}
+	EndGlobalSection
+EndGlobal
